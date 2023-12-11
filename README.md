@@ -1,4 +1,4 @@
-# Basic_Encryption-Decryption_Application
+# Basic_Encryption_and_Decryption_Application
 
 Link to documentation --> https://drive.google.com/drive/folders/1Jpvf4_0-5iQsGy4g7DCLS9huoRIv6__W?usp=sharing
 
