@@ -2,6 +2,15 @@
 
 Link to documentation --> https://drive.google.com/drive/folders/1Jpvf4_0-5iQsGy4g7DCLS9huoRIv6__W?usp=sharing
 
+Team Members of the Project:
+1. Vasundhara Maheshwari
+   Profile Links:
+   - https://github.com/VasundharaMaheshwari
+   - https://www.linkedin.com/in/vasundhara-m-2point0/
+2. Sujit Asari 
+3. Vaishnavi Tarkar
+4. Steffy Fernando
+
 About:
 -----------------------------------------------------------------------------------------------------------------
 Embarked on a transformative learning journey with our project: Basic Encryption and Decryption Application. We scratched the surface of the Java AWT framework, learnt the foundation of GUI development, and studied fundamental event handling techniques.
